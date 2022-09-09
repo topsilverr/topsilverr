@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/python-3776AB?style=social&logo=Python&logoColor={yellow}"/>
+<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor={yellow}"/>
 
 
 
