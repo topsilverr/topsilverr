@@ -1,9 +1,5 @@
 # CHI SANG EUN 😉
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftopsilverr&count_bg=%23D29FF1&title_bg=%23BD85ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-![Sang Eun's GitHub stats](https://github-readme-stats.vercel.app/api?username=topsilverr&show_icons=true&theme=tokyonight)
-
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
