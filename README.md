@@ -13,7 +13,9 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-35BF5C.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
  
 # :mailbox_with_mail: Contacts
 [![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&link=https://www.notion.so/89612ff8f2b74bd39d862f93c62e95c1)](https://www.notion.so/89612ff8f2b74bd39d862f93c62e95c1)
