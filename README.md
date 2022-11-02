@@ -1,7 +1,5 @@
 # CHI SANG EUN 😉
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topsilverr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 # 💻 Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
